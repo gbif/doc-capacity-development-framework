@@ -13,7 +13,7 @@ GBIF Capacity Development Framework. March 2024. GBIF Secretariat: Copenhagen.
 
 === Contributors
 
-https://orcid.org/0000-0002-6158-8202[Mélanie Raymond^], Maheva Bagard Laursen, Laura Anne Russell
+https://orcid.org/0000-0002-6158-8202[Mélanie Raymond^], Maheva Bagard Laursen, https://orcid.org/0000-0002-1920-5298[Laura Anne Russell^]
 
 === Licence
 
