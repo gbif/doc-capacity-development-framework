@@ -7,6 +7,27 @@ GBIF employs and documents a variety of methods that contribute to objectives of
 
 The GBIF Participant Node Managers Committee, in addition to its role as an advisory committee to the Governing Board, serves as “a forum for sharing information about the status and best practices of Participants’ nodes” (see https://www.gbif.org/document/80571/terms-of-reference-for-the-participant-node-managers-committee-nodes[Terms of Reference^]). Nodes play an essential role in developing the capacity of institutions and individuals within their network, as well as connecting to the national and regional levels. The nodes must also evolve their scope to keep pace with changes within GBIF itself and in the broader biodiversity landscape.  GBIF places strong emphasis on capacity development support for the nodes through exchange of experience and expertise, as described in table 1.
 
+.Table 1: Tools and approaches supporting node development through collaboration
+//[%header,cols=4*]
+|===
+| Global and regional nodes meetings |  |
+|---|---|
+| Description | Contributions to capacity development |
+| The nodes committee organizes meetings that alternate annually between global nodes meetings and regional meetings. These meetings are led by node representatives at global and regional levels, with  support from the Secretariat. | Meetings involve sharing work updates, training on network developments, fostering the nodes community, enhancing regional collaboration, and engaging potential partners from non-participating countries when support is accessible. |
+| GBIF’s Capacity Enhancement Support Programme - CESP |  |
+| Description | Contributions to capacity development |
+| Since 2014, this programme offers small grants to co-fund capacity development projects exclusively for GBIF Participants. Annual calls for proposals fund collaborative projects between nodes that combine mentoring, regional events, training, and documentation production for capacity enhancement. | CESP targets GBIF Participants' capacity needs through global and regional collaboration. It aligns with the capacity self-assessment, fosters sharing of experience, and helps establish new nodes through partnerships and mentorship. |
+| Onboarding programme |  |
+| Description | Contributions to capacity development |
+| GBIF provides a series of support activities to welcome newly appointed Node Managers to the community. This includes welcome letters, a buddy system to pair new Node Managers with more experienced colleagues, and orientation activities. | The onboarding programme helps integrate new Node Managers into the GBIF community, enhance their awareness of tools and benefits open to them, and promote active participation in the network for efficient node establishment. |
+| Node Awards |  |
+| Description | Contributions to capacity development |
+| Starting in 2023, the GBIF Node Awards scheme provides visibility and recognition for node-led achievements through biennial, non-monetary awards. | The awards process contributes to capacity development by providing an incentive for nodes to demonstrate their progress and innovations, as well as generating guiding examples to inspire replication across the nodes community. |
+| Technical support hour for GBIF nodes |  |
+| Description | Contributions to capacity development |
+| Recognizing their crucial role in supporting data mobilization and use, the Secretariat’s Data Products team offers regular open office hours for node staff. These drop-in sessions focus on practical topics, facilitating Q&A, and creating reusable resources for addressing network questions. | The technical support hour focuses on developing the capacity of node staff to serve as technical experts and helpdesk in support of data mobilization and use in their networks. |
+|===
+
 === Capacity development programmes
 
 GBIF has run various capacity development programmes since its inception, with the scale and scope of these programmes expanding over time. These programmes are centred around open calls for proposals and combine other capacity development activities, such as training workshops and webinars. Implementation is supported by the GBIF community of practice and Participant nodes that assist in promoting the calls, reviewing applications, providing mentoring and training support, and often partnering in projects. The role and types of programmes currently in use are described in table 2.
