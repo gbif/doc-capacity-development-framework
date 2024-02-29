@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-GBIF Capacity Development Framework. First edition 2024. GBIF Secretariat: Copenhagen. 
+GBIF Capacity Development Framework. March 2024. GBIF Secretariat: Copenhagen. 
 // Uncomment once a DOI is assigned
 //https://doi.org/10.EXAMPLE/EXAMPLE
 
@@ -29,7 +29,7 @@ The document _GBIF Capacity Enhancement Framework_ is licensed under https://cre
 
 First edition, March 2024
 
-Based on a March 2015 publication , link:../data/GBIFCapacityEnhancementFramework2015.pdf[_GBIF Capacity Enhancement Framework_^] (PDF, 312 KB).
+Based on the March 2015 publication, link:../data/GBIFCapacityEnhancementFramework2015.pdf[_GBIF Capacity Enhancement Framework_^] (PDF, 312 KB).
 
 === Cover image
 
