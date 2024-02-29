@@ -58,7 +58,7 @@ GBIF has run various capacity development programmes since its inception, with t
 *Table 2: Capacity development through programmes*
 
 ****
-*Biodiversity Information for Development - BID *
+*Biodiversity Information for Development - BID*
 |===
 | Description | Contributions to capacity development
 
@@ -89,8 +89,65 @@ GBIF has defined roles within a broad community of GBIF volunteers to assist the
 
 GBIF’s regional support teams, contractors working part time from within their target regions, further assist the development of the community of practice, particularly in non-Participant countries. This work was started in response to recommendations in the https://www.gbif.org/news/1QfpUlGByxjqBktiYAfyIK/twenty-years-of-gbif-independent-review-charts-successes-and-challenges[CODATA 20-Year Review of GBIF^], including strengthening the nodes by stabilizing and extending the regional networks.  These regional support teams complement the work done by community volunteers and work in close collaboration with the nodes and the elected regional representatives to strengthen the coordination of regional participation in GBIF.
 
+*Table 3: Supporting the development of the community of practice*
+
+****
+*GBIF volunteer community*
+|===
+| Description | Contributions to capacity development
+
+|GBIF assigns roles to volunteers contributing as mentors and trainers, biodiversity open data ambassadors, reviewers and translators. Volunteers assist in developing and delivering training, speaking on GBIF’s behalf at relevant conferences and meetings, providing impartial reviews and feedback on applications to programmes, and translating materials and content to make GBIF fully accessible to our global community.
+|Mentors and trainers help others within the community of practice to build the skills needed to achieve the network's common goals by volunteering their knowledge and expertise. Ambassadors advocate best practices in open sharing and transparent use of biodiversity data and promote GBIF in national and regional venues. Translators reduce linguistic barriers to support effective participation in capacity development actions. Reviewers provide impartial guidance in reviewing proposals and their feedback to applicants helps to develop capacity for project preparation and implementation. All volunteers develop their own capacity through their participation in these roles.
+|===
+
+*Regional support teams*
+|===
+| Description | Contributions to capacity development
+
+|The regional support teams aid in the development of active communities of practice with the organization of online training workshops; provide technical assistance to data publishers by helping administrating regional cloud IPTs, reviewing the quality of datasets prepared by new GBIF publishers and organizing regular open office hours; and support the discovery and engagement of biodiversity data holding institutions by updating the Global Registry of Scientific Collections (GRSciColl) and establishing contact with data holders to communicate the benefits of open data sharing.
+|This supports the development of individual and institutional capacity in non-GBIF Participant countries and helps pilot new GBIF-led initiatives to assess impact. 
+Working in close collaboration with the GBIF Secretariat and the regional representatives to ensure the alignment of their work with GBIF-led initiatives, they maximize the reach of the GBIF Secretariat to support the development of dynamic communities of practice.
+|===
+****
+
 === Training strategy and learning resources
 
 GBIF offers a blended learning environment that provides reusable and easily accessible learning opportunities, both online and in-person, that can be implemented across all levels of this capacity development framework. The GBIF Secretariat guides the development and maintenance of curricula and a catalogue of resources that further the goals to mobilize data through GBIF and to use GBIF-mediated data in research and decision-making. The resources exist in the form of courses, tutorials, instructional videos, and digital documentation. The Secretariat and nodes collaborate with a range of volunteers, community experts, and higher education in the development, delivery, promotion and use of materials and courses. The Secretariat partners with established external groups to provide essential foundational skills that are needed in the community. 
 
+*Table 4: Training and documentation*
 
+****
+*Curriculum development*
+|===
+| Description | Contributions to capacity development
+
+|Since 2016, when the first version of the data mobilization workshop was developed for the BID programme, the Secretariat has focused on working with GBIF community experts to develop training materials that are based on defined learning objects and an educational rubric with measures of success to enable certification for selected courses.  The content is modular-based, designed to be reusable and is easily accessible online. Additional features include use cases and practical exercises; pre- and post-course activities; and pre- and post-course evaluations.
+|The GBIF method of curriculum development is key in developing and expanding the  community of practice. An end result of completing GBIF courses is development of skills at an individual level that translate to the ability to reuse materials and exchange knowledge with colleagues/peers to further develop skills in their institutional and national communities.
+|===
+
+*Digital documentation*
+|===
+| Description | Contributions to capacity development
+
+a|Beyond training materials, the Secretariat offers a range of best practice guides intended to supplement GBIF’s data publishing and data use communities. This digital-first documentation is on a range of topics relating to biodiversity informatics and open biodiversity data. Text and other content are maintained in open GBIF GitHub repositories and published into HTML and PDF formats using an open-source publishing toolchain called AsciiDoctor. Support for translations is integrated via CrowdIn, which provides a free non-commercial licence that supports the efforts of GBIF's volunteer translator community. GBIF’s digital-first documentation is:
+
+- Authored by the community
+- Reviewed by the community
+- Consistent  
+- Versioned
+- Maintained on GitHub
+- Updated in a timely manner
+- Licenced with Creative Commons
+- Translated in multiple languages
+
+In addition to the best practice guides, the Secretariat develops and maintains technical documentation on GBIF processes, tools, services, and system components. Like the best practice guides, the technical documentation is maintained in GitHub and uses Asciidoctor.
+|Digital-first documentation promotes knowledge sharing from community experts and gives the community at-large an opportunity to peer-review. This promotes  inclusivity and transparency in the process and allows quick response to new or expanded needs from the community with regards to specific documentation. Additionally, it expands the community to new users and thematic communities. 
+
+*Data Use Club*
+|===
+| Description | Contributions to capacity development
+
+|Through quarterly webinars, the Data Use Club promotes interaction between data users and provides them with tools for developing skills in data use. 
+|Participation in the Data Use Club strengthens data use and open data principles among research communities and improves data literacy at the individual level.
+|===
+****
