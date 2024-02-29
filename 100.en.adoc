@@ -79,7 +79,7 @@ Examples
 * Capacity development actions are led by the institutions or countries that are to benefit from the actions, ensuring that they are aligned with self-assessed capacity needs, and make use of local expertise and systems.
 ****
 
-The main objectives of capacity development in GBIF, covering both technical and functional capacities, are to develop the capacity to mobilize biodiversity data through GBIF, and the capacity to use GBIF-mediated data in research and decision making.
+The main objectives of capacity development in GBIF, covering both technical and functional capacities, are to develop the capacity to mobilize biodiversity data through GBIF, and the capacity to use GBIF-mediated data in research and decision-making.
 
 === Developing the capacity to mobilize biodiversity data through GBIF 
 
@@ -99,7 +99,7 @@ Efforts to design and implement capacity development actions that target the lev
 === Developing the capacity to use GBIF-mediated biodiversity data
 
 [verse]
- -- The ability to analyse and use biodiversity data accessible through GBIF in scientific research and decision making
+ -- The ability to analyse and use biodiversity data accessible through GBIF in scientific research and decision-making
 
 In the current strategic period, GBIF focuses on increasing the relevance and diversifying the uptake of GBIF-mediated data for scientific research (priority area 1). This requires capacity development through partnerships with academia and higher education, including through supporting thematic research communities with limited previous knowledge of GBIF. In addition, GBIF seeks to develop the capacity to use data to support policy responses addressing societal challenges around planetary change. This includes contributing to local, national, regional, and global biodiversity-related goals and indicators, and partnering to support the application of data in policy-relevant information tools and products (priority area 2).
 
