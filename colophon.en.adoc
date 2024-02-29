@@ -29,7 +29,7 @@ The document _GBIF Capacity Enhancement Framework_ is licensed under https://cre
 
 First edition, March 2024
 
-Originally based on an earlier publication, link:../data/GBIFCapacityEnhancementFramework2015.pdf[_GBIF Capacity Enhancement Framework_^] (PDF, 312 KB).
+Based on a March 2015 publication , link:../data/GBIFCapacityEnhancementFramework2015.pdf[_GBIF Capacity Enhancement Framework_^] (PDF, 312 KB).
 
 === Cover image
 
