@@ -1,3 +1,4 @@
+[[introduction]]
 == Introduction
 
 The framework acts as a roadmap for the Secretariat, Participant nodes, and the wider GBIF community, directing capacity development efforts throughout the strategic period spanning from 2023 to 2027. GBIF aims for - and anticipates - a scaling up of capacity development work within this period. The tools and approaches presented here are adaptable to enable the implementation of this framework in line with the opportunities arising during this period.  
