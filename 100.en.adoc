@@ -3,4 +3,43 @@
 
 Capacity is broadly defined by the Organization for Economic Cooperation and Development (OECD) as _“the ability of individuals, institutions, and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner”_. Capacity development refers to _“the processes whereby people, organizations, and society as a whole unleash, strengthen, create, adapt and maintain capacity over time”_. These definitions are widely used in the field of international cooperation, and are applicable to GBIF.
 
-GBIF’s strategic framework 2023-2027 sets out the global vision and mission, together with four strategic priority areas to achieve these (see box 1). Capacity development, while emphasized especially in priority area 3,  will contribute to GBIF’s success across all areas of the strategic framework.
+GBIF’s https://www.gbif.org/strategic-plan[strategic framework 2023-2027^] sets out the global vision and mission, together with four strategic priority areas to achieve these (see box 1). Capacity development, while emphasized especially in priority area 3,  will contribute to GBIF’s success across all areas of the strategic framework.
+
+[[box-1]]
+=== Box 1. GBIF’s Vision, Mission and Priority areas
+****
+*GBIF’s vision*:  A world in which the best possible biodiversity data underpins research, policy, and decisions.
+
+*GBIF mission*: To mobilize the data, skills, and technologies needed to make comprehensive biodiversity information freely available for science and decisions addressing biodiversity loss and sustainable development.
+
+Priority area 1: Science and Research
+
+Priority area 2: Policy and Partnerships
+
+Priority area 3: Community and Capacity
+
+Priority area 4: Infrastructure and Data Products
+****
+
+GBIF has defined values within the strategic framework that underpin all efforts to advance our work, and apply to the Secretariat, to the global nodes network, to participants, to data publishing institutions, and to data users, that together embody the global GBIF community. These values guide how capacity development actions are developed and should be implemented at all levels, as demonstrated through examples provided in Box 2.
+
+[[box-2]]
+=== Box 2. GBIF Values and how they apply to capacity development
+****
+// [width=100%]
+[cols="50%,50%"]
+|===
+|GBIF Values 
+|Examples of how the values guide capacity development actions 
+
+|Trust and Transparency: 
+
+Expectations that all decisions and processes are open; that data is properly attributed and of the highest-possible quality; and that infrastructures are robust, documented and persistent
+
+|All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community. 
+
+We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes. 
+
+All contributions to capacity development actions will be attributed to the individuals, institutions, nodes and regions involved.
+|=== 
+****
