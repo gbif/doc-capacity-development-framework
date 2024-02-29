@@ -17,7 +17,8 @@ The GBIF community of practice has emerged from the global network of biodiversi
 
 The GBIF Secretariat and Participant nodes have a role in supporting interactions within the community of practice and encouraging its development and growth. Key components of  this are ensuring that there are open opportunities and transparent processes for members of the community to contribute to GBIF’s capacity development actions on all scales; that collaboration is central in these approaches; and that contributions are made visible for appropriate recognition and attribution.
 
-==== Monitoring progress
+====
+*Monitoring progress*
 
 The community, comprising all individuals globally active in sharing and reusing data through GBIF and sharing their skills with others, is much larger than GBIF can feasibly track. The following metrics can help to demonstrate growth in the community in specific areas:
 
@@ -28,6 +29,7 @@ GBIF tracks participation in training courses. This can include skills certifica
 As part of the literature tracking process, GBIF tracks the number and country affiliation of authors involved in articles citing the use of GBIF-mediated data. This metric is helpful in demonstrating the growth of individual and institutional capacity within the use of GBIF-mediated data in research, including the geographic distribution of the user community.
 
 These metrics will be regularly reviewed in terms of overall growth, as well as geographic spread, to help guide capacity development into under-represented communities and areas.
+====
 
 === Institutional level capacity development
 
@@ -38,7 +40,9 @@ Data is published to GBIF through registered institutions, not directly from ind
 Focusing on the institutional level is important, not only for scalability, but also in order to build persistent engagement and practices that span across multiple departments and individuals within the organization or agency.
 A growing number of formal academic higher education programmes now encourage the mobilization and use of GBIF-mediated data - see for example BioData, ecoEd and Benin international Masters in Biodiversity Informatics. Such examples demonstrate how capacity at the institutional level can cascade to developing the capacity of students to use and publish biodiversity data in the future.
 
-==== Monitoring progress
+----
+*Monitoring progress*
+
 Tracking growth in the number of institutions that are registered and endorsed as data publishers is relatively easy and can give an indication of growth in institutional capacity to mobilize data through GBIF.  It is much harder to track the institutionalization of data use. GBIF documents guiding examples of the use of GBIF-mediated data in academic teaching but could consider developing new mechanisms to track and evaluate this type of capacity, such as tracking the development of curricula that include content on data mobilization and use through GBIF. Better engagement with capacity development within academic institutions would be greatly valuable for achieving the goals of this framework, but is beyond the scope of what can be tracked at present.
 The following metrics can help to demonstrate development of institutional capacity:
 
@@ -46,8 +50,8 @@ The number of data publishing institutions with at least one dataset is easily t
 
 Monitoring the number of institutions with affiliated authors of literature citing the use of GBIF-mediated data will give some indication of where there is institutional capacity to use GBIF-mediated data.
 
-
 These metrics will be regularly reviewed in terms of overall growth, as well as geographic spread, to help guide capacity development into under-represented communities and areas.
+----
 
 === National level capacity development
 
