@@ -83,7 +83,7 @@ The main objectives of capacity development in GBIF, covering both technical and
 
 === Developing the capacity to mobilize biodiversity data through GBIF 
 
-|The ability to manage, standardize and publish biodiversity data
+===== The ability to manage, standardize and publish biodiversity data
 
 This is essential to reducing knowledge gaps and ensuring a stable foundation for data mobilization through the network (priority areas 1 and 3). As GBIF evolves and adapts data standards and models (priority area 4), further capacity development will be needed to support the uptake of new data publishing methods by its current network, as well as to integrate new data publishing communities. Growing awareness at the policy level of the importance of enhanced access to primary biodiversity data, for example to support implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework (priority area 2),  strengthens the justification for developing capacity to mobilize data. 
 
