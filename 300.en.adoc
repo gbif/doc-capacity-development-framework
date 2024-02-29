@@ -31,6 +31,7 @@ The GBIF Participant Node Managers Committee, in addition to its role as an advi
 |===
 
 | Description | Contributions to capacity development
+
 | GBIF provides a series of support activities to welcome newly appointed Node Managers to the community. This includes welcome letters, a buddy system to pair new Node Managers with more experienced colleagues, and orientation activities. 
 | The onboarding programme helps integrate new Node Managers into the GBIF community, enhance their awareness of tools and benefits open to them, and promote active participation in the network for efficient node establishment.
 
