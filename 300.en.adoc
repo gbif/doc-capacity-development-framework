@@ -1,1 +1,24 @@
+[[tools-and-approaches]]
+== Capacity development tools and approaches
+
+GBIF employs and documents a variety of methods that contribute to objectives of this framework, and are implemented in line with GBIF’s values.
+
+=== Supporting node development through collaboration
+
+The GBIF Participant Node Managers Committee, in addition to its role as an advisory committee to the Governing Board, serves as “a forum for sharing information about the status and best practices of Participants’ nodes” (see https://www.gbif.org/document/80571/terms-of-reference-for-the-participant-node-managers-committee-nodes[Terms of Reference^]). Nodes play an essential role in developing the capacity of institutions and individuals within their network, as well as connecting to the national and regional levels. The nodes must also evolve their scope to keep pace with changes within GBIF itself and in the broader biodiversity landscape.  GBIF places strong emphasis on capacity development support for the nodes through exchange of experience and expertise, as described in table 1.
+
+=== Capacity development programmes
+
+GBIF has run various capacity development programmes since its inception, with the scale and scope of these programmes expanding over time. These programmes are centred around open calls for proposals and combine other capacity development activities, such as training workshops and webinars. Implementation is supported by the GBIF community of practice and Participant nodes that assist in promoting the calls, reviewing applications, providing mentoring and training support, and often partnering in projects. The role and types of programmes currently in use are described in table 2.
+
+=== Community of practice support and development
+
+GBIF has defined roles within a broad community of GBIF volunteers to assist them in contributing effectively and to ensure recognition for their contributions.  According to the https://www.gbif.org/news/5WZThcL928vmPnSvrGhZfE/[2023 Deloitte Access Economics valuation and assessment of the impact of the GBIF network^], time contributed by volunteers for various value adding activities, such as translation or mentoring, is valued at approximately €958,000 per annum.
+
+GBIF’s regional support teams, contractors working part time from within their target regions, further assist the development of the community of practice, particularly in non-Participant countries. This work was started in response to recommendations in the https://www.gbif.org/news/1QfpUlGByxjqBktiYAfyIK/twenty-years-of-gbif-independent-review-charts-successes-and-challenges[CODATA 20-Year Review of GBIF^], including strengthening the nodes by stabilizing and extending the regional networks.  These regional support teams complement the work done by community volunteers and work in close collaboration with the nodes and the elected regional representatives to strengthen the coordination of regional participation in GBIF.
+
+=== Training strategy and learning resources
+
+GBIF offers a blended learning environment that provides reusable and easily accessible learning opportunities, both online and in-person, that can be implemented across all levels of this capacity development framework. The GBIF Secretariat guides the development and maintenance of curricula and a catalogue of resources that further the goals to mobilize data through GBIF and to use GBIF-mediated data in research and decision-making. The resources exist in the form of courses, tutorials, instructional videos, and digital documentation. The Secretariat and nodes collaborate with a range of volunteers, community experts, and higher education in the development, delivery, promotion and use of materials and courses. The Secretariat partners with established external groups to provide essential foundational skills that are needed in the community. 
+
 
