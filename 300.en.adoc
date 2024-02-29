@@ -142,6 +142,7 @@ a|Beyond training materials, the Secretariat offers a range of best practice gui
 
 In addition to the best practice guides, the Secretariat develops and maintains technical documentation on GBIF processes, tools, services, and system components. Like the best practice guides, the technical documentation is maintained in GitHub and uses Asciidoctor.
 |Digital-first documentation promotes knowledge sharing from community experts and gives the community at-large an opportunity to peer-review. This promotes  inclusivity and transparency in the process and allows quick response to new or expanded needs from the community with regards to specific documentation. Additionally, it expands the community to new users and thematic communities. 
+|===
 
 *Data Use Club*
 |===
