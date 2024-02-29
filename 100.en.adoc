@@ -30,56 +30,52 @@ GBIF has defined values within the strategic framework that underpin all efforts
 // [width=100%]
 //[cols="50%,50%"]
 |===
-//|GBIF Values 
+|GBIF Values and examples
 //|Examples of how the values guide capacity development actions 
 |*Trust and Transparency*: Expectations that all decisions and processes are open; that data is properly attributed and of the highest-possible quality; and that infrastructures are robust, documented and persistent
 
-|* All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community. 
-* We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes. 
+|* All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community.
+
+* We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes.
+
 * All contributions to capacity development actions will be attributed to the individuals, institutions, nodes and regions involved.
 
 |*Collaboration and Collective Benefit*: A recognition that only through a spirit of cooperation can we fulfil GBIF’s mission by sharing skills, data, tools and experiences, avoiding duplication, and growing a global community of practice
 
-|GBIF’s capacity development approach will be based on facilitating the exchange of experience, data and technology between partners.
+|* GBIF’s capacity development approach will be based on facilitating the exchange of experience, data and technology between partners.
 
-Training actions engage local trainers and mentors when possible, encourage replication and ongoing knowledge-sharing, and make use of training materials are designed with reuse and adaptation in mind. 
+* Training actions engage local trainers and mentors when possible, encourage replication and ongoing knowledge-sharing, and make use of training materials are designed with reuse and adaptation in mind. 
 
-We work through partnerships to support the development of skills that are either fundamental to, or extensions of, the core skills in which GBIF develops capacity.
+* We work through partnerships to support the development of skills that are either fundamental to, or extensions of, the core skills in which GBIF develops capacity.
 
-The endorsement model through our existing network of nodes is used throughout calls for capacity development actions to encourage national and regional coordination. 
+* The endorsement model through our existing network of nodes is used throughout calls for capacity development actions to encourage national and regional coordination. 
 
-We give full visibility to partners and encourage them to give visibility to GBIF in return through roles, branding policy, and mutual credit
+* We give full visibility to partners and encourage them to give visibility to GBIF in return through roles, branding policy, and mutual credit
 
-|Diversity and Inclusiveness: 
+|*Diversity and Inclusiveness*: A commitment to engage and welcome people of all nationalities, cultures, genders and backgrounds while recognizing all contributions to our global community
 
-A commitment to engage and welcome people of all nationalities, cultures, genders and backgrounds while recognizing all contributions to our global community
+|*We recognize and focus on capacity development and community engagement in regions and countries where we have known participation and data gaps
 
-|We recognize and focus on capacity development and community engagement in regions and countries where we have known participation and data gaps
+*A code of conduct is promoted through all capacity development activities 
 
-A code of conduct is promoted through all capacity development activities 
+*Selection criteria that encourage diversity are included in all processes 
 
-Selection criteria that encourage diversity are included in all processes 
-
-We facilitate and encourage translation and local adaptation of all training materials and documentation to support their uptake
+*We facilitate and encourage translation and local adaptation of all training materials and documentation to support their uptake
 Capacity development actions contribute to outreach, for example through the participation of observers and new institutions and countries in actions at all levels, and promote full participation in GBIF governance on the long term for the sustainability of GBIF as a global infrastructure and network
 
-We support capacity development through regional groupings that build cohesion through shared priorities, languages, biodiversity
+*We support capacity development through regional groupings that build cohesion through shared priorities, languages, biodiversity
 
-|Innovation: 
+|*Innovation*: An ambition to lead by example in advancing open science and data services and in adopting novel techniques for collaboration and learning, recognizing that simplicity is often the best means of reaching our goals
 
-An ambition to lead by example in advancing open science and data services and in adopting novel techniques for collaboration and learning, recognizing that simplicity is often the best means of reaching our goals
+|*As much as possible, we promote the use of open-source software and tools in all capacity development actions and avoid creating any dependencies on products without open licences
 
-|As much as possible, we promote the use of open-source software and tools in all capacity development actions and avoid creating any dependencies on products without open licences
+*We investigate and adopt new tools and processes to support capacity development, including guided capacity self-assessments and recognition of skills through digital badges
 
-We investigate and adopt new tools and processes to support capacity development, including guided capacity self-assessments and recognition of skills through digital badges
+|*Integrity*: An assurance that professional norms and scientific integrity are respected; and that data-sharing safeguards the rights of indigenous peoples and local communities as well as potential risks to sensitive species
 
-|Integrity:
+|*Capacity development actions align with data mobilization guidelines that are continually updated to promote appropriate data sharing, attribution, licensing and risk awareness
 
-An assurance that professional norms and scientific integrity are respected; and that data-sharing safeguards the rights of indigenous peoples and local communities as well as potential risks to sensitive species
-
-|Capacity development actions align with data mobilization guidelines that are continually updated to promote appropriate data sharing, attribution, licensing and risk awareness
-
-Capacity development actions are led by the institutions or countries that are to benefit from the actions, ensuring that they are aligned with self-assessed capacity needs, and make use of local expertise and systems
+*Capacity development actions are led by the institutions or countries that are to benefit from the actions, ensuring that they are aligned with self-assessed capacity needs, and make use of local expertise and systems
 
 |=== 
 
