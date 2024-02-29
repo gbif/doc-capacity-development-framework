@@ -83,7 +83,7 @@ The main objectives of capacity development in GBIF, covering both technical and
 
 === Developing the capacity to mobilize biodiversity data through GBIF 
 
-[verse]
+[admonition]
 The ability to manage, standardize and publish biodiversity data
 
 
