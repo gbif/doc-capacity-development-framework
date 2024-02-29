@@ -55,6 +55,34 @@ The GBIF Participant Node Managers Committee, in addition to its role as an advi
 
 GBIF has run various capacity development programmes since its inception, with the scale and scope of these programmes expanding over time. These programmes are centred around open calls for proposals and combine other capacity development activities, such as training workshops and webinars. Implementation is supported by the GBIF community of practice and Participant nodes that assist in promoting the calls, reviewing applications, providing mentoring and training support, and often partnering in projects. The role and types of programmes currently in use are described in table 2.
 
+*Table 2: Capacity development through programmes*
+
+****
+*Biodiversity Information for Development - BID *
+|===
+| Description | Contributions to capacity development
+
+|Launched in 2015, the BID programme aims to improve biodiversity data availability and accessibility in developing countries, to support national and global objectives on conservation and sustainable development. It supports projects selected following an open call process, with training and technical guidance provided by GBIF, regional support teams and partners. The programme is funded primarily by the European Union.
+|The BID programme aims to enhance all levels of capacity (individual, institutional, national and regional) for effective mobilization and use of biodiversity data in research and policy in developing countries, through the nurturing of communities of practice in open data mobilization and use.
+|===
+
+*Hosted Portals Programme*
+|===
+| Description | Contributions to capacity development
+
+|The GBIF hosted portals programme delivers simple, customizable portals to support GBIF Participant nodes, data publishing networks and institutions. These simple websites are hosted and maintained on the GBIF infrastructure and complement other more complex tools available in the network. Participation in the programme is free of charge and applications are welcome at any time.
+|The programme lowers the technical threshold for maintaining a branded web presence displaying a targeted subset of GBIF-mediated data. Community calls organized by the Secretariat foster collaboration among portal groups, encouraging knowledge sharing and feature innovation.
+|===
+
+*Other Participant-led capacity development actions*
+|===
+| Description | Contributions to capacity development
+
+|GBIF Participants lead many capacity development programmes and initiatives that range in scale from local workshops to international funding programmes. GBIF facilitates such actions by providing access to training resources and guidance materials, supporting the organization of training workshops, and engaging volunteer mentors and trainers.
+|The Secretariat supports the implementation of Participant-led capacity development actions that are aligned with GBIF’s vision, mission and strategic priority areas.
+|===
+****
+
 === Community of practice support and development
 
 GBIF has defined roles within a broad community of GBIF volunteers to assist them in contributing effectively and to ensure recognition for their contributions.  According to the https://www.gbif.org/news/5WZThcL928vmPnSvrGhZfE/[2023 Deloitte Access Economics valuation and assessment of the impact of the GBIF network^], time contributed by volunteers for various value adding activities, such as translation or mentoring, is valued at approximately €958,000 per annum.
