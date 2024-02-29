@@ -28,24 +28,17 @@ GBIF has defined values within the strategic framework that underpin all efforts
 === GBIF Values and how they apply to capacity development
 
 // [width=100%]
-[cols="50%,50%"]
+//[cols="50%,50%"]
 |===
-|GBIF Values 
-|Examples of how the values guide capacity development actions 
+//|GBIF Values 
+//|Examples of how the values guide capacity development actions 
+|*Trust and Transparency*: Expectations that all decisions and processes are open; that data is properly attributed and of the highest-possible quality; and that infrastructures are robust, documented and persistent
 
-|Trust and Transparency: 
+|* All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community. 
+* We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes. 
+* All contributions to capacity development actions will be attributed to the individuals, institutions, nodes and regions involved.
 
-Expectations that all decisions and processes are open; that data is properly attributed and of the highest-possible quality; and that infrastructures are robust, documented and persistent
-
-|All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community. 
-
-We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes. 
-
-All contributions to capacity development actions will be attributed to the individuals, institutions, nodes and regions involved.
-
-|Collaboration and Collective Benefit: 
-
-A recognition that only through a spirit of cooperation can we fulfil GBIF’s mission by sharing skills, data, tools and experiences, avoiding duplication, and growing a global community of practice
+|*Collaboration and Collective Benefit*: A recognition that only through a spirit of cooperation can we fulfil GBIF’s mission by sharing skills, data, tools and experiences, avoiding duplication, and growing a global community of practice
 
 |GBIF’s capacity development approach will be based on facilitating the exchange of experience, data and technology between partners.
 
@@ -94,8 +87,9 @@ The main objectives of capacity development in GBIF, covering both technical and
 
 === Developing the capacity to mobilize biodiversity data through GBIF 
 
-[quote]
+____
 The ability to manage, standardize and publish biodiversity data
+____
 
 This is essential to reducing knowledge gaps and ensuring a stable foundation for data mobilization through the network (priority areas 1 and 3). As GBIF evolves and adapts data standards and models (priority area 4), further capacity development will be needed to support the uptake of new data publishing methods by its current network, as well as to integrate new data publishing communities. Growing awareness at the policy level of the importance of enhanced access to primary biodiversity data, for example to support implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework (priority area 2),  strengthens the justification for developing capacity to mobilize data. 
 
@@ -109,8 +103,9 @@ Efforts to design and implement capacity development actions that target the lev
 
 === Developing the capacity to use GBIF-mediated biodiversity data
 
-[quote]
+____
 The ability to analyse and use biodiversity data accessible through GBIF in scientific research and decision making
+____
 
 In the current strategic period, GBIF focuses on increasing the relevance and diversifying the uptake of GBIF-mediated data for scientific research (priority area 1). This requires capacity development through partnerships with academia and higher education, including through supporting thematic research communities with limited previous knowledge of GBIF. In addition, GBIF seeks to develop the capacity to use data to support policy responses addressing societal challenges around planetary change. This includes contributing to local, national, regional, and global biodiversity-related goals and indicators, and partnering to support the application of data in policy-relevant information tools and products (priority area 2).
 
