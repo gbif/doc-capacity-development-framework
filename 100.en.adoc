@@ -54,7 +54,7 @@ The endorsement model through our existing network of nodes is used throughout c
 Examples
 
 * We recognize and focus on capacity development and community engagement in regions and countries where we have known participation and data gaps.
-* A code of conduct is promoted through all capacity development activities.
+* A https://www.gbif.org/code-of-conduct[code of conduct^] is promoted through all capacity development activities.
 * Selection criteria that encourage diversity are included in all processes.
 * We facilitate and encourage translation and local adaptation of all training materials and documentation to support their uptake.
 * Capacity development actions contribute to outreach, for example through the participation of observers and new institutions and countries in actions at all levels, and promote full participation in GBIF governance on the long term for the sustainability of GBIF as a global infrastructure and network.
@@ -101,7 +101,7 @@ a|*Collaboration and Collective Benefit*: A recognition that only through a spir
 a|*Diversity and Inclusiveness*: A commitment to engage and welcome people of all nationalities, cultures, genders and backgrounds while recognizing all contributions to our global community.
 
 * We recognize and focus on capacity development and community engagement in regions and countries where we have known participation and data gaps.
-* A code of conduct is promoted through all capacity development activities.
+* A https://www.gbif.org/code-of-conduct[code of conduct^] is promoted through all capacity development activities.
 * Selection criteria that encourage diversity are included in all processes.
 * We facilitate and encourage translation and local adaptation of all training materials and documentation to support their uptake
 Capacity development actions contribute to outreach, for example through the participation of observers and new institutions and countries in actions at all levels, and promote full participation in GBIF governance on the long term for the sustainability of GBIF as a global infrastructure and network.
