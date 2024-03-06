@@ -11,7 +11,7 @@ This framework describes overarching goals for capacity development on the main 
 
 &nbsp;
 
-image::img/web/capacitydevelopmentlevels.png[align=center,width=80%,height=80%]
+image::img/web/capacitydevelopmentlevels.png[align=center,width=95%,height=95%]
 
 &nbsp;
 
