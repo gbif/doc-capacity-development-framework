@@ -1,36 +1,34 @@
 [[capacity-development-objectives]]
 == Capacity development objectives 
 
-Capacity is broadly defined by the Organization for Economic Cooperation and Development (OECD) as _“the ability of individuals, institutions, and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner”_. Capacity development refers to _“the processes whereby people, organizations, and society as a whole unleash, strengthen, create, adapt and maintain capacity over time”_. These definitions are widely used in the field of international cooperation, and are applicable to GBIF.
+Capacity is broadly defined by the Organization for Economic Cooperation and Development (OECD) as “the ability of individuals, institutions, and societies to perform functions, solve problems and set and achieve objectives in a sustainable manner.” Capacity development refers to “the processes whereby people, organizations, and society as a whole unleash, strengthen, create, adapt and maintain capacity over time.” These definitions, widely used in the field of international cooperation, are applicable to GBIF.
 
-GBIF’s https://www.gbif.org/strategic-plan[strategic framework 2023-2027^] sets out the global vision and mission, together with four strategic priority areas to achieve these (see 1.1). Capacity development, while emphasized especially in priority area 3,  will contribute to GBIF’s success across all areas of the strategic framework.
+The https://www.gbif.org/strategic-plan[GBIF Strategic Framework 2023-2027^] sets out the global vision and mission, together with four strategic priority areas to achieve these (see <<box-1,§1.1>>). Capacity development, while emphasized especially in Priority Area 3,  will contribute to GBIF’s success across all areas of the strategic framework.
 
 [[box-1]]
-=== GBIF’s Vision, Mission and Priority areas
+=== GBIF’s vision, mission and priority areas
 
 ****
-*GBIF’s vision*:  A world in which the best possible biodiversity data underpins research, policy, and decisions.
+*GBIF’s vision*: A world in which the best possible biodiversity data underpins research, policy, and decisions.
 
 *GBIF mission*: To mobilize the data, skills, and technologies needed to make comprehensive biodiversity information freely available for science and decisions addressing biodiversity loss and sustainable development.
 
-Priority area 1: Science and Research
+* Priority Area 1: Science and Research
+* Priority area 2: Policy and Partnerships
+* Priority area 3: Community and Capacity
+* Priority area 4: Infrastructure and Data Products
 
-Priority area 2: Policy and Partnerships
-
-Priority area 3: Community and Capacity
-
-Priority area 4: Infrastructure and Data Products
 ****
 
-GBIF has defined values within the strategic framework that underpin all efforts to advance our work, and apply to the Secretariat, to the global nodes network, to participants, to data publishing institutions, and to data users, that together embody the global GBIF community. These values guide how capacity development actions are developed and should be implemented at all levels, as demonstrated through examples (see 1.2).
+GBIF has defined values within the strategic framework that underpin all efforts to advance our work and that together embody the global GBIF community, applying to the Secretariat, to the global nodes network, to participants, to data publishing institutions, and to data users. These values guide how we develop capacity development actions and implement at all levels, as in the <<box-2,examples below>>).
 
 [[box-2]]
-=== GBIF Values and how they apply to capacity development
+=== GBIF values and how they apply to capacity development
 
 ****
 *Trust and Transparency*: Expectations that all decisions and processes are open; that data is properly attributed and of the highest-possible quality; and that infrastructures are robust, documented and persistent.
 
-Examples
+_Examples_
 
 * All opportunities will be shared through open calls with transparent selection processes based on predefined criteria and involving experts from the wider community. 
 * We provide guidance and support where necessary to grant holding institutions to develop project management capacity based on transparent processes. 
@@ -51,7 +49,7 @@ The endorsement model through our existing network of nodes is used throughout c
 ****
 *Diversity and Inclusiveness*: A commitment to engage and welcome people of all nationalities, cultures, genders and backgrounds while recognizing all contributions to our global community.
 
-Examples
+_Examples_
 
 * We recognize and focus on capacity development and community engagement in regions and countries where we have known participation and data gaps.
 * A https://www.gbif.org/code-of-conduct[code of conduct^] is promoted through all capacity development activities.
@@ -64,7 +62,7 @@ Examples
 ****
 *Innovation*: An ambition to lead by example in advancing open science and data services and in adopting novel techniques for collaboration and learning, recognizing that simplicity is often the best means of reaching our goals.
 
-Examples
+_Examples_
 
 * As much as possible, we promote the use of open-source software and tools in all capacity development actions and avoid creating any dependencies on products without open licences.
 * We investigate and adopt new tools and processes to support capacity development, including guided capacity self-assessments and recognition of skills through digital badges.
@@ -73,13 +71,13 @@ Examples
 ****
 *Integrity*: An assurance that professional norms and scientific integrity are respected; and that data-sharing safeguards the rights of indigenous peoples and local communities as well as potential risks to sensitive species.
 
-Examples
+_Examples_
 
 * Capacity development actions align with data mobilization guidelines that are continually updated to promote appropriate data sharing, attribution, licensing and risk awareness.
 * Capacity development actions are led by the institutions or countries that are to benefit from the actions, ensuring that they are aligned with self-assessed capacity needs, and make use of local expertise and systems.
 ****
 
-The main objectives of capacity development in GBIF, covering both technical and functional capacities, are to develop the capacity to mobilize biodiversity data through GBIF, and the capacity to use GBIF-mediated data in research and decision-making.
+The main objectives of capacity development in GBIF, covering both technical and functional capacities, are to develop the capacity to mobilize biodiversity data through GBIF and the capacity to use GBIF-mediated data in research and decision-making.
 
 === Developing the capacity to mobilize biodiversity data through GBIF 
 
@@ -87,15 +85,15 @@ The main objectives of capacity development in GBIF, covering both technical and
 The ability to manage, standardize and publish biodiversity data
 ****
 
-This is essential to reducing knowledge gaps and ensuring a stable foundation for data mobilization through the network (priority areas 1 and 3). As GBIF evolves and adapts data standards and models (priority area 4), further capacity development will be needed to support the uptake of new data publishing methods by its current network, as well as to integrate new data publishing communities. Growing awareness at the policy level of the importance of enhanced access to primary biodiversity data, for example to support implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework (priority area 2),  strengthens the justification for developing capacity to mobilize data. 
+This is essential to reducing knowledge gaps and ensuring a stable foundation for data mobilization through the network (Priority Areas 1 and 3). As GBIF evolves and adapts data standards and models (Priority Area 4), further capacity development will be needed to support the uptake of new data publishing methods by its current network, as well as to integrate new data publishing communities. Growing awareness at the policy level of the importance of enhanced access to primary biodiversity data, for example, to support implementation and monitoring of the Kunming-Montreal Global Biodiversity Framework (Priority Area 2), strengthens the justification for developing capacity to mobilize data. 
 
 Progress towards this objective will be demonstrated in the growth and continued activity of the community of data publishing institutions. Enriching GBIF’s data model will increase the diversity among institutions in the data publishing community. Ultimately, progress will be reflected in the completeness and richness of the data being published.
 
-Institutional capacity for data management varies widely among the different institutions that produce and hold biodiversity data. Capacity varies between different regions of the world, and also between different types and sizes of biodiversity-related institutions. Supportive international policy frameworks can strengthen the enabling environment for institutions within and beyond GBIF’s current network to provide open access to their biodiversity data. While data publishing in GBIF is on the institutional level, it depends on the skills and engagement of individuals within the institutions, as well as capacity at the level of the Participant nodes that assist with engagement, provide endorsement, and often offer technical support. 
+Institutional capacity for data management varies widely among the different institutions that produce and hold biodiversity data. Capacity varies between different regions of the world and also between different types and sizes of biodiversity-related institutions. Supportive international policy frameworks can strengthen the enabling environment for institutions within and beyond GBIF’s current network to provide open access to their biodiversity data. While data publishing in GBIF is on the institutional level, it depends on the skills and engagement of individuals within the institutions, as well as capacity at the level of the Participant nodes that assist with engagement, provide endorsement, and often offer technical support. 
 
 As a network of networks, Participant-led efforts to promote data mobilization and support the development of institutional capacity within their countries and networks remain essential to allow capacity support to scale towards a truly global network. This necessitates continued support for capacity development within an expanding network of Participant nodes.
 
-Efforts to design and implement capacity development actions that target the levelling-up of institutional capacity in currently under-represented regions and among under-represented data publishing communities should continue to be a priority for the GBIF network. Such efforts should reinforce the capacity of existing Participant nodes - and encourage the development of new nodes - to ensure sustainable capacity support to the growing data publishing network. Regional support teams extend support beyond the nodes network to enable new institutions from non-Participant countries to engage in data mobilization and use, growing the community of practice that forms the foundation for formal Participation in the future.
+Efforts to design and implement capacity development actions that target the levelling-up of institutional capacity in currently under-represented regions and among under-represented data publishing communities should continue to be a priority for the GBIF network. Such efforts should reinforce the capacity of existing Participant nodes—and encourage the development of new nodes—to ensure sustainable capacity support to the growing data publishing network. Regional support teams extend support beyond the nodes network to enable new institutions from non-Participant countries to engage in data mobilization and use, growing the community of practice that forms the foundation for formal Participation in the future.
 
 === Developing the capacity to use GBIF-mediated biodiversity data
 
@@ -103,9 +101,9 @@ Efforts to design and implement capacity development actions that target the lev
 The ability to analyse and use biodiversity data accessible through GBIF in scientific research and decision-making
 ****
 
-In the current strategic period, GBIF focuses on increasing the relevance and diversifying the uptake of GBIF-mediated data for scientific research (priority area 1). This requires capacity development through partnerships with academia and higher education, including through supporting thematic research communities with limited previous knowledge of GBIF. In addition, GBIF seeks to develop the capacity to use data to support policy responses addressing societal challenges around planetary change. This includes contributing to local, national, regional, and global biodiversity-related goals and indicators, and partnering to support the application of data in policy-relevant information tools and products (priority area 2).
+In the current strategic period, GBIF focuses on increasing the relevance and diversifying the uptake of GBIF-mediated data for scientific research (Priority Area 1). This requires capacity development through partnerships with academia and higher education, including thematic research communities with limited previous knowledge of GBIF. In addition, GBIF seeks to develop the capacity to use data to support policy responses addressing societal challenges around planetary change. This includes contributing to local, national, regional and global biodiversity-related goals and indicators, and partnering to support the application of data in policy-relevant information tools and products (Priority Area 2).
 
-Progress towards this objective will be seen in the breadth and representativeness of the growing body of scientific literature that cites the use of GBIF-mediated data.  GBIF maintains an ongoing literature tracking programme, which identifies research uses and citations, and groups these into thematic research areas. Literature tracking can highlight geographic gaps and targets for development in GBIF’s research user communities. These research uses ultimately depend on capacity at the level of individual scientists and students involved, but are greatly facilitated by the development of methodologies and norms for using open biodiversity data within a research field and the academic institutions involved.
+Progress towards this objective will be seen in the breadth and representativeness of the growing body of scientific literature that cites the use of GBIF-mediated data. GBIF maintains an ongoing literature tracking programme, which identifies research uses and citations, and groups these into thematic research areas. Literature tracking can highlight geographic gaps and targets for development in GBIF’s research user communities. These research uses ultimately depend on capacity at the level of individual scientists and students involved, but are greatly facilitated by the development of methodologies and norms for using open biodiversity data within a research field and the academic institutions involved.
 
 Progress in capacity to use GBIF-mediated data for policy objectives may be tracked through examples of uptake in national policy reports, regulations and indicators, including those provided for implementation of global biodiversity-related conventions, although this is likely to be less quantitative than metrics from research citations. 
 
