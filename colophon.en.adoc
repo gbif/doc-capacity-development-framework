@@ -22,10 +22,10 @@ https://doi.org/10.35035/doc-wvg9-n274
 
 === Document control
 
-First edition, March 2024
+Version 1.0, March 2024
 
-Based on the [_GBIF Capacity Enhancement Framework_^] (2015).
+Based on the https://doi.org/10.35035/doc-qpxw-n868[_GBIF Capacity Enhancement Framework_^] (2015).
 
 === Cover image
 
-Training participants at the 2023 Global Nodes Training, Canberra, Australia. Photo 2023 Mélianie Raymond, licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Training participants at the 2023 Global Nodes Training, Canberra, Australia. https://flic.kr/p/2p9qySm[Photo^] 2023 Mélianie Raymond | GBIF Secretariat, licensed under http://creativecommons.org/licenses/by/2.0/[CC BY 2.0^].
