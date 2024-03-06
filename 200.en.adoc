@@ -16,7 +16,7 @@ image::img/web/capacitydevelopmentlevels.png[align=left]
 &nbsp;
 
 [[individual-level]]
-=== Individual level capacity development
+=== Individual-level capacity development
 
 ****
 The goal is to strengthen and grow GBIF’s community of practice: individuals with the skills, knowledge, and motivation to share and reuse biodiversity data for research, conservation and sustainable development, and to support others participating in the community.
@@ -41,7 +41,7 @@ These metrics will be regularly reviewed in terms of overall growth, as well as 
 ====
 
 [[institutional-level]]
-=== Institutional level capacity development
+=== Institutional-level capacity development
 
 ****
 The goal is to build partnerships that drive the institutionalization of biodiversity data mobilization and the appropriate use of GBIF-mediated data within a global network of institutions, including academia, natural history collections, research institutions, national government departments and agencies, non-governmental and inter-governmental organizations, among others. 
@@ -67,7 +67,7 @@ These metrics will be regularly reviewed in terms of overall growth, as well as 
 ====
 
 [[national-level]]
-=== National level capacity development
+=== National-level capacity development
 
 ****
 The goal is to develop national biodiversity information facilities that provide the coordination and enabling environment for data publishing and use at the national level, and are the core of GBIF’s governance and participation model.
@@ -97,7 +97,7 @@ These metrics will be regularly reviewed in terms of overall growth, as well as 
 ====
 
 [[regional-level]]
-=== Regional level capacity development
+=== Regional-level capacity development
 
 ****
 The goal is to develop the capacity to coordinate and raise the visibility of the GBIF community of practice and network on the regional level so that it can expand engagement on all other levels, and ultimately support GBIF in engaging in the regional-level biodiversity agenda.
