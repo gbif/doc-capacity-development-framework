@@ -9,7 +9,11 @@ Evaluation is integral to capacity development, and should involve and inform al
 
 This framework describes overarching goals for capacity development on the main implementation levels that GBIF targets: the individual, institutional, national, and regional levels. It further outlines monitoring indicators associated with each capacity development level that can help track overall progress and guide further implementation. 
 
+&nbsp;
+
 image::img/web/capacitydevelopmentlevels.png[]
+
+&nbsp;
 
 [[individual-level]]
 === Individual level capacity development
