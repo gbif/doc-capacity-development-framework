@@ -12,9 +12,7 @@ This framework describes overarching goals for capacity development on the main 
 &nbsp;
 
 //:figure-caption!:
-.&nbsp;
-.&nbsp;
-.Nested implementation levels and goals for capacity development in GBIF
+.Nested implementation levels and goals for capacity development in GBIF[padding-top=10px]
 image::img/web/capacitydevelopmentlevels.png[align=left,width=90%,height=90%]
 
 [[individual-level]]
