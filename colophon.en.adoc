@@ -6,7 +6,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-GBIF Capacity Development Framework (2024) GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-wvg9-n274
+GBIF Capacity Development Framework (2024) Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-wvg9-n274
 
 === Contributors
 
