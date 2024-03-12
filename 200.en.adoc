@@ -1,7 +1,7 @@
 [[implementation-levels]]
 == Implementation levels and progress monitoring
 
-Capacity development actions are implemented on multiple levels in the GBIF network and involve a broad community of individuals. https://www.wenger-trayner.com/introduction-to-communities-of-practice/[Communities of practice^] have been defined by sociologists Wegner and Trayner as _“groups of people who share a concern or passion for something they do and learn how to do it better as they interact regularly”_. This document will refer to the GBIF community of practice as an inclusive term for the many practitioners engaged in activities contributing to GBIF’s mission who collaborate and learn from each other, often through activities such as mentoring, training, translation, and promoting open biodiversity data. 
+Capacity development actions are implemented on multiple levels in the GBIF network and involve a broad community of individuals. https://www.wenger-trayner.com/introduction-to-communities-of-practice/[Communities of practice^] have been defined by sociologists Wegner and Trayner as “groups of people who share a concern or passion for something they do and learn how to do it better as they interact regularly.” This document will refer to the GBIF community of practice as an inclusive term for the many practitioners engaged in activities contributing to GBIF’s mission who collaborate and learn from each other, often through activities such as mentoring, training, translation, and promoting open biodiversity data. 
 
 Capacity development actions can be led by volunteers in the community of practice, participating institutions, the Participant nodes, and  GBIF Secretariat, and are often implemented through partnerships bridging these groups. Capacity development is frequently combined with outreach and engagement work, contributing to expanding the GBIF network. This framework is, therefore, an essential component of GBIF’s evolving participation and engagement strategy. 
 
@@ -9,14 +9,14 @@ Evaluation is integral to capacity development, and should involve and inform al
 
 This framework describes overarching goals for capacity development on the main implementation levels that GBIF targets: the individual, institutional, national, and regional levels. It further outlines monitoring indicators associated with each capacity development level that can help track overall progress and guide further implementation. 
 
+//:figure-caption!:
+.Nested implementation levels and goals for capacity development in GBIF
+image::img/web/capacitydevelopmentlevels.png[align=left]
+
 &nbsp;
 
-//:figure-caption!:
-.Nested implementation levels and goals for capacity development in GBIF[padding-top=10px]
-image::img/web/capacitydevelopmentlevels.png[align=left,width=90%,height=90%]
-
 [[individual-level]]
-=== Individual level capacity development
+=== Individual-level capacity development
 
 ****
 The goal is to strengthen and grow GBIF’s community of practice: individuals with the skills, knowledge, and motivation to share and reuse biodiversity data for research, conservation and sustainable development, and to support others participating in the community.
@@ -41,7 +41,7 @@ These metrics will be regularly reviewed in terms of overall growth, as well as 
 ====
 
 [[institutional-level]]
-=== Institutional level capacity development
+=== Institutional-level capacity development
 
 ****
 The goal is to build partnerships that drive the institutionalization of biodiversity data mobilization and the appropriate use of GBIF-mediated data within a global network of institutions, including academia, natural history collections, research institutions, national government departments and agencies, non-governmental and inter-governmental organizations, among others. 
@@ -51,7 +51,7 @@ Data is published to GBIF through registered institutions, not directly from ind
 
 Focusing on the institutional level is important, not only for scalability, but also in order to build persistent engagement and practices that span across multiple departments and individuals within the organization or agency.
 
-A growing number of formal academic higher education programmes now encourage the mobilization and use of GBIF-mediated data - see for example https://www.nhm.uio.no/english/research/projects/biodata/[BioData^], https://www.gbif.org/article/6Oaud6tpLOAm8wQMGqkkSi/ecoed-cohesive-training-and-skill-development-for-ecosciences[ecoEd^] and https://www.gbif.org/article/aA0MjVddRiRFOX2SEs7mT/promoting-gbif-data-use-through-a-graduate-degree-programme-in-biodiversity-informatics[Benin international Masters in Biodiversity Informatics^]. Such examples demonstrate how capacity at the institutional level can cascade to developing the capacity of students to use and publish biodiversity data in the future.
+A growing number of formal academic higher education programmes now encourage the mobilization and use of GBIF-mediated data: see, for example, https://www.nhm.uio.no/english/research/projects/biodata/[BioData^], https://www.gbif.org/article/6Oaud6tpLOAm8wQMGqkkSi/ecoed-cohesive-training-and-skill-development-for-ecosciences[ecoEd^] and https://www.gbif.org/article/aA0MjVddRiRFOX2SEs7mT/promoting-gbif-data-use-through-a-graduate-degree-programme-in-biodiversity-informatics[Benin international Masters in Biodiversity Informatics^]. These and other examples demonstrate how capacity at the institutional level can cascade to developing the capacity of students to use and publish biodiversity data in the future.
 
 ====
 *Monitoring progress*
@@ -60,25 +60,24 @@ Tracking growth in the number of institutions that are registered and endorsed a
 
 The following metrics can help to demonstrate development of institutional capacity:
 
-The number of *data publishing institutions with at least one dataset* is easily tracked in GBIF and helps show where there is capacity at the institutional level for data publishing, noting that in many cases, nodes are supporting this capacity, for example by hosting datasets on national platforms.
-
-Monitoring the number of *institutions with affiliated authors of literature citing the use of GBIF-mediated data* will give some indication of where there is institutional capacity to use GBIF-mediated data.
+* The number of *data publishing institutions with at least one dataset* is easily tracked in GBIF and helps show where there is capacity at the institutional level for data publishing, noting that in many cases, nodes are supporting this capacity, for example by hosting datasets on national platforms.
+* Monitoring the number of *institutions with affiliated authors of literature citing the use of GBIF-mediated data* will give some indication of where there is institutional capacity to use GBIF-mediated data.
 
 These metrics will be regularly reviewed in terms of overall growth, as well as geographic spread, to help guide capacity development into under-represented communities and areas.
 ====
 
 [[national-level]]
-=== National level capacity development
+=== National-level capacity development
 
 ****
 The goal is to develop national biodiversity information facilities that provide the coordination and enabling environment for data publishing and use at the national level, and are the core of GBIF’s governance and participation model.
 ****
 
-GBIF supports the development of national biodiversity information facilities as collaborative networks of people and institutions that collectively form infrastructure for delivering biodiversity information to relevant stakeholders. This work often begins with engagement and capacity development at the institutional level, with a view to working with institutional partners to encourage formal national Participation in GBIF and the https://docs.gbif.org/effective-nodes-guidance/1.0/en/[establishment of a Participant node^] through a participatory approach as a means to ensure government level awareness and support for biodiversity data mobilization and use through GBIF.
+GBIF supports the development of national biodiversity information facilities as collaborative networks of people and institutions that collectively form infrastructure for delivering biodiversity information to relevant stakeholders. This work often begins with engagement and capacity development at the institutional level, with a view to working with institutional partners to encourage formal national Participation in GBIF and the https://doi.org/10.15468/doc-z79c-sa53[establishment of a Participant node^] through a participatory approach as a means to ensure government level awareness and support for biodiversity data mobilization and use through GBIF.
 
-When formally joining GBIF through signature of the GBIF Memorandum of Understanding (MoU), countries agree to establish a Participant node - a team designated to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building a national infrastructure for delivering biodiversity information. The allocation of resources to the node is the responsibility of the participating country and is independent of GBIF’s core budget. Nodes are supported by organizational arrangements and informatics solutions, and work to improve the availability and usefulness of biodiversity data for research, policy, and decision-making.
+When formally joining GBIF through signature of the https://doi.org/10.15468/doc.ajz7-qt28[GBIF Memorandum of Understanding^] (MOU), countries agree to establish a Participant node—that is, a team designated to coordinate a network of people and institutions that produces, manages and uses biodiversity data and collectively builds a national infrastructure for delivering biodiversity information. The allocation of resources to the node is the responsibility of the participating country and is independent of GBIF’s core budget. Nodes are supported by organizational arrangements and informatics solutions and work to improve the availability and usefulness of biodiversity data for research, policy and decision-making.
  
-Nodes vary greatly across the network, with a range of different hosting institutions and contacts, scales of operation, and available budgets. Developing capacity at the node level, and continuing to lower the technical threshold for active participation in GBIF as global infrastructure, is critical for GBIF’s scalability. Nodes need to provide a stable foundation for data mobilization and use within the expanding network, and for the benefit of GBIF as a whole. To achieve this, nodes themselves need to have the capacity to perform the functions expected of them. 
+Nodes vary greatly across the network, with a range of different hosting institutions and contacts, scales of operation and available budgets. Developing capacity at the node level, and continuing to lower the technical threshold for active participation in GBIF as global infrastructure, is critical for GBIF’s scalability. Nodes need to provide a stable foundation for data mobilization and use within the expanding network and for the benefit of GBIF as a whole. To achieve this, nodes themselves need to have the capacity to perform the functions expected of them. 
 
 ====
 *Monitoring progress*
@@ -98,7 +97,7 @@ These metrics will be regularly reviewed in terms of overall growth, as well as 
 ====
 
 [[regional-level]]
-=== Regional level capacity development
+=== Regional-level capacity development
 
 ****
 The goal is to develop the capacity to coordinate and raise the visibility of the GBIF community of practice and network on the regional level so that it can expand engagement on all other levels, and ultimately support GBIF in engaging in the regional-level biodiversity agenda.
